@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "651f94554a85c370d0971b49",
+        "ranking": 1,
+        "name": "John Doe",
+        "dob": "1989-12-31T18:30:00.000Z",
+        "country": "USA",
+        "score": 150,
+        "event": "100m",
+        "__v": 0
+    },
+    {
+        "_id": "651f901e2fb8d66cd39be2f2",
+        "ranking": 2,
+        "name": "usainer bolter",
+        "dob": "1996-03-05T18:30:00.000Z",
+        "country": "USA",
+        "score": 133,
+        "event": "100m",
+        "__v": 0
+    },
+    {
+        "_id": "651f94704a85c370d0971b4b",
+        "ranking": 3,
+        "name": "Michael Phelps",
+        "dob": "1985-07-14T18:30:00.000Z",
+        "country": "USA",
+        "score": 120,
+        "event": "100m",
+        "__v": 0
+    },
+    {
+        "_id": "651f947a4a85c370d0971b4d",
+        "ranking": 4,
+        "name": "Rafael Nadal",
+        "dob": "1986-06-02T18:30:00.000Z",
+        "country": "Spain",
+        "score": 115,
+        "event": "100m",
+        "__v": 0
+    },
+    {
+        "_id": "651f94824a85c370d0971b4f",
+        "ranking": 5,
+        "name": "Serena Williams",
+        "dob": "1981-09-25T18:30:00.000Z",
+        "country": "USA",
+        "score": 110,
+        "event": "100m",
+        "__v": 0
+    },
+    {
+        "_id": "651f965cc2f1658c1d6e80dd",
+        "ranking": 6,
+        "name": "Novak Djokovic",
+        "dob": "1987-05-21T18:30:00.000Z",
+        "country": "Serbia",
+        "score": 105,
+        "event": "100m",
+        "__v": 0
+    },
+    {
+        "_id": "651f965cc2f1658c1d6e80de",
+        "ranking": 7,
+        "name": "Simone Biles",
+        "dob": "1997-03-13T18:30:00.000Z",
+        "country": "USA",
+        "score": 100,
+        "event": "100m",
+        "__v": 0
+    }
+]
